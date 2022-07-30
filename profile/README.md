@@ -1,7 +1,13 @@
-# CRHS IDEA
-### The Official Github for the Cinco Ranch High School Software Club
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/24477470/181864491-419af38b-4224-4934-99a8-974296eae1f6.png"
+     alt=""
+     width="400"/>
+ </p>
+<h1 align="center">CRHS IDEA</h1>
+<h4 align="center">The Official Github for the Cinco Ranch High School Software Club</h4>
 
-### Hackathon Repositories
+### Hackathon Repositories!
+
 - [Greenway](https://github.com/crhsidea/greenway)
 - [Step By Step](https://github.com/crhsidea/step-by-step)
 - [Bot Dilemma](https://github.com/crhsidea/bot-dilemma)
