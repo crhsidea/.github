@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24477470/181864491-419af38b-4224-4934-99a8-974296eae1f6.png"
+  <img src="![CS IDEA White BG 2](https://user-images.githubusercontent.com/74691129/185769411-5d840db8-279b-48c9-9329-276a2a5efb05.png)"
      alt=""
      width="400"/>
  </p>
-<h1 align="center">CRHS IDEA</h1>
-<h4 align="center">The Official Github for the Cinco Ranch High School Software Club</h4>
+<h1 align="center">IDEA Computer Science</h1>
+<h4 align="center">Official GitHub for the Cinco Ranch High School Computer Science Innovation and Development Association</h4>
 
 ### Hackathon Repositories!
 
