@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![CS IDEA White BG 2](https://user-images.githubusercontent.com/74691129/185769411-5d840db8-279b-48c9-9329-276a2a5efb05.png)"
+  <img src="https://user-images.githubusercontent.com/74691129/185769447-8210d8a5-16e0-4e41-9c78-f9e1b5addbe6.png"
      alt=""
      width="400"/>
  </p>
